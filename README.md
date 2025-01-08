@@ -1,6 +1,6 @@
-# IndianBank Case Study
+# Indian Bank Case Study
 
-**1.	Create a DATABASE: Ibank**
+## **Create a DATABASE: Ibank**
 ### TABLES
 CREATE THE FOLLOWING TABLES WITH SAME NAMES AND DATA TYPES AS PROVIDED BELOW:
 Tips : First create only Those tables and insert data who has a Primary column , after that create other Foriegn key Col Tables.
